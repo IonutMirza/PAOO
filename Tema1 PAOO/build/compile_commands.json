@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Ionut/Desktop/Tema1 PAOO/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\CarProject.dir\\main.cpp.obj -c \"C:\\Users\\Ionut\\Desktop\\Tema1 PAOO\\main.cpp\"",
+  "file": "C:/Users/Ionut/Desktop/Tema1 PAOO/main.cpp",
+  "output": "CMakeFiles/CarProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ionut/Desktop/Tema1 PAOO/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\CarProject.dir\\Car.cpp.obj -c \"C:\\Users\\Ionut\\Desktop\\Tema1 PAOO\\Car.cpp\"",
+  "file": "C:/Users/Ionut/Desktop/Tema1 PAOO/Car.cpp",
+  "output": "CMakeFiles/CarProject.dir/Car.cpp.obj"
+}
+]

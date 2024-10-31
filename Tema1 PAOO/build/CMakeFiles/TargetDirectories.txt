@@ -1,0 +1,5 @@
+C:/Users/Ionut/Desktop/Tema1 PAOO/build/CMakeFiles/CarProject.dir
+C:/Users/Ionut/Desktop/Tema1 PAOO/build/CMakeFiles/package.dir
+C:/Users/Ionut/Desktop/Tema1 PAOO/build/CMakeFiles/package_source.dir
+C:/Users/Ionut/Desktop/Tema1 PAOO/build/CMakeFiles/edit_cache.dir
+C:/Users/Ionut/Desktop/Tema1 PAOO/build/CMakeFiles/rebuild_cache.dir
